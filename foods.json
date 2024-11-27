@@ -1,0 +1,14 @@
+{
+  "chicken": {
+    "calories": 165,
+    "protein": "31g"
+  },
+  "beef": {
+    "calories": 250,
+    "protein": "26g"
+  },
+  "apple": {
+    "calories": 95,
+    "protein": "0.5g"
+  }
+}
